@@ -1,0 +1,4 @@
+node_modules/
+.vscode/
+project-demo/
+npm-debug.log

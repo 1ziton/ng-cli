@@ -1,0 +1,27 @@
+{
+  "name": "ng1-cli",
+  "version": "0.1.0",
+  "description": "Simple CLI for scaffolding github projects",
+  "bin": {
+    "repo": "./bin/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ziton/ng1-cli.git"
+  },
+  "keywords": [
+    "repository",
+    "git",
+    "project",
+    "repo"
+  ],
+  "author": "giscafer<giscafer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1ziton/ng1-cli/issues"
+  },
+  "homepage": "https://github.com/1ziton/ng1-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
