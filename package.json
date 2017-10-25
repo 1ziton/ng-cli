@@ -1,9 +1,9 @@
 {
   "name": "ng1-cli",
-  "version": "0.1.0",
-  "description": "Simple CLI for scaffolding github projects",
+  "version": "0.1.3",
+  "description": "angularjs1.x tools for https://github.com/1ziton/angular-webpack-es6",
   "bin": {
-    "repo": "./bin/index"
+    "ng1": "./bin/index"
   },
   "repository": {
     "type": "git",
